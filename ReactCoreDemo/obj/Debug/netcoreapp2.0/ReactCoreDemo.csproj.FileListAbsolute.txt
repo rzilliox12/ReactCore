@@ -1,0 +1,11 @@
+D:\RZ\ReactCoreDemo\ReactCoreDemo\bin\Debug\netcoreapp2.0\ReactCoreDemo.deps.json
+D:\RZ\ReactCoreDemo\ReactCoreDemo\bin\Debug\netcoreapp2.0\ReactCoreDemo.runtimeconfig.json
+D:\RZ\ReactCoreDemo\ReactCoreDemo\bin\Debug\netcoreapp2.0\ReactCoreDemo.runtimeconfig.dev.json
+D:\RZ\ReactCoreDemo\ReactCoreDemo\bin\Debug\netcoreapp2.0\ReactCoreDemo.dll
+D:\RZ\ReactCoreDemo\ReactCoreDemo\obj\Debug\netcoreapp2.0\ReactCoreDemo.csproj.CoreCompileInputs.cache
+D:\RZ\ReactCoreDemo\ReactCoreDemo\obj\Debug\netcoreapp2.0\ReactCoreDemo.AssemblyInfoInputs.cache
+D:\RZ\ReactCoreDemo\ReactCoreDemo\obj\Debug\netcoreapp2.0\ReactCoreDemo.AssemblyInfo.cs
+D:\RZ\ReactCoreDemo\ReactCoreDemo\bin\Debug\netcoreapp2.0\ReactCoreDemo.pdb
+D:\RZ\ReactCoreDemo\ReactCoreDemo\obj\Debug\netcoreapp2.0\ReactCoreDemo.dll
+D:\RZ\ReactCoreDemo\ReactCoreDemo\obj\Debug\netcoreapp2.0\ReactCoreDemo.pdb
+D:\RZ\ReactCoreDemo\ReactCoreDemo\obj\Debug\netcoreapp2.0\ReactCoreDemo.csprojAssemblyReference.cache
